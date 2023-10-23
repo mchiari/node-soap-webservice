@@ -1,0 +1,15 @@
+{
+  "name": "soap-webservice",
+  "version": "1.0.0",
+  "description": "Express + SOAP: webservice local",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Chiari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "soap": "^1.0.0"
+  }
+}
